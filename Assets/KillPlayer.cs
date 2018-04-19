@@ -7,12 +7,12 @@ public class KillPlayer : MonoBehaviour {
 
     private Transform playerPosition;
     PlayManagement playManagement;
-	void Start () {
+	void Awake () {
         playerPosition = GameObject.FindGameObjectWithTag("Player").transform;
         playManagement = GameObject.FindGameObjectWithTag("mainsceneobject").GetComponent<PlayManagement>();    
 	}
 	void Update () {
-        GetComponent<NavMeshAgent>().SetDestination(playerPosition.position);
+        GetComponent<NavMeshAgent>().destination = playerPosition.position;
 	}
 
     
