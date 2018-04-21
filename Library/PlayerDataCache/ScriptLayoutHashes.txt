@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-F:/UnityProject/WorkShopPractice/catchMe.apk
+F:/UnityProject/WorkShopPractice/wizards world.apk
 SceneListBegin?
 Assets/menuscene.unity
 Assets/mainscene.unity

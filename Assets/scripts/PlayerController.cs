@@ -12,7 +12,6 @@ public class PlayerController : MonoBehaviour
     private float speed = 3.0f;
     private Vector3 prev_angles;
     public Camera cam;
-    private float smoothing = 1.0f;
     private float offset_bullet = .89f;
     public Text scoreText;
     public GameObject gameOverPanel;

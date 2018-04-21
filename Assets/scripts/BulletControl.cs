@@ -18,11 +18,13 @@ public class BulletControl : MonoBehaviour {
     }
     void OnCollisionEnter(Collision col)
     {
-        Debug.Log(col.gameObject.tag);
+        //Debug.Log(col.gameObject.tag);
         if (col.gameObject.tag == "enemy")
-        {         
-            PlayerController.IncScore(1);
+        {
+            col.gameObject.tag = "destroyed";
             Destroy(col.gameObject);
+            PlayerController.IncScore(1);          
+            Destroy(this);
         }
     }
 }
