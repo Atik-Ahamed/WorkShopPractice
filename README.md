@@ -7,20 +7,14 @@ If anytime they reach to you,you will die immediately.
 Obviously you will get points for destroying them.
 Let's see how much time you can survive and how much point you can get.
 
-# Resources and language used
 
-  - Unity3D
-  - Blender
-  - C#
- 
-Trained a group of people about game development. It was a basic game development workshop. Trained them about Unity game engine and how to be familiar with mobile game development by developing this game.
 
 ### Tech
 
 * [Unity3D](https://unity.com)
 * [Blender](https://www.blender.org)
 * C#
-
+Trained a group of people about game development. It was a basic game development workshop. Trained them about Unity game engine and how to be familiar with mobile game development by developing this game.
 ### GamePlay Images
 ![](https://lh3.googleusercontent.com/rMhhRJLA58GOxaRayafMp5NUGG6Brq-l3rvWZLVG2mBL8qxdMsQPCejs6Fe1TSmXmVo=w720-h310)
 ![](https://lh3.googleusercontent.com/kH1RiqIpuCxXifD_JWNlBNbrWojWYODzliKeTOeHf4o-qiov1B87UqFuUgR6ZU3pMKmG=w720-h310)
